@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
-        uses: koj-co/readme-repos-list@master
+        uses: DenverCoderOne/readme-repos-list@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           query: "user:DenverCoderOne fork:true"
