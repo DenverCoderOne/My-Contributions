@@ -11,5 +11,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          query: "DenverCoderOne in:readme"
+          query: "user:DenverCoderOne fork:true"
           max: 10
