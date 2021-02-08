@@ -1,4 +1,4 @@
-# My-Contributions
+# 🤝 My Contributions
 
 List of Open Source projects I have contributed to on GitHub
 
