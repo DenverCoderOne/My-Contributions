@@ -11,9 +11,9 @@ List of Open Source projects I have contributed to on GitHub
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
-* [github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1) - Github profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
-
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
+
+* [github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1) - Github profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
 
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
@@ -35,7 +35,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-hovercard](https://github.com/DenverCoderOne/github-hovercard) - Neat hovercards for GitHub.
 
-* [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers) - null
+* [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers)
 
 * [daily](https://github.com/DenverCoderOne/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
