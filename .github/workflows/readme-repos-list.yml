@@ -13,4 +13,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           query: "user:DenverCoderOne fork:true"
           max: 100
-          sort: "name"
+          sort: "updated"
