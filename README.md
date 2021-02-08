@@ -2,7 +2,7 @@
 
 List of my contributions to Open Source projects.
 
-<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
+<!-- start: readme-repos-list -->...the list will be added here...<!-- end: readme-repos-list -->
 
 ----
 
