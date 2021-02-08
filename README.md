@@ -11,9 +11,9 @@ List of Open Source projects I have contributed to on GitHub
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
-* [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
-
 * [github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1) - Github profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
+
+* [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
 
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
