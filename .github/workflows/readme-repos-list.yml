@@ -1,6 +1,7 @@
-name: README Repos List CI
+name: README Repos List
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   list:
     runs-on: ubuntu-latest
@@ -8,6 +9,6 @@ jobs:
       - name: Run readme-repos-list
         uses: koj-co/readme-repos-list@master
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           query: "DenverCoderOne in:readme"
           max: 10
