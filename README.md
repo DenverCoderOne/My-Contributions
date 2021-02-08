@@ -44,3 +44,7 @@ List of Open Source projects I have contributed to on GitHub
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
 <!-- end: readme-repos-list -->
+
+----
+
+:zap: This readme is updated automatically with [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list)
