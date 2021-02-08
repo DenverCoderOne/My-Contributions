@@ -1,6 +1,6 @@
 # My-Contributions
 
-List of my contributions to Open Source projects.
+List of Open Source projects I have contributed to on GitHub
 
 <!-- start: readme-repos-list -->
 <!-- This list is auto-generated using koj-co/readme-repos-list -->
@@ -44,7 +44,3 @@ List of my contributions to Open Source projects.
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
 <!-- end: readme-repos-list -->
-
-----
-
-Powered by [🖇️ README Repositories List](https://github.com/koj-co/readme-repos-list)
