@@ -35,7 +35,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
-* [My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of my contributions to Open Source projects.
+* [My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
