@@ -33,6 +33,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-profile-readme-generator-1](https://github.com/DenverCoderOne/github-profile-readme-generator-1) - Github profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
 
+* [github-readme-activity-graph](https://github.com/DenverCoderOne/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
