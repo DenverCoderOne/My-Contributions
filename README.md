@@ -23,6 +23,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
 
+* [emojitrack-web](https://github.com/DenverCoderOne/emojitrack-web) - :dizzy: Emojitracker frontend application
+
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
 * [github-activity-readme](https://github.com/DenverCoderOne/github-activity-readme) - Updates README with the recent GitHub activity of a user
@@ -40,6 +42,8 @@ List of Open Source projects I have contributed to on GitHub
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
+
+* [vscode-folder-templates](https://github.com/DenverCoderOne/vscode-folder-templates) - Create your own Component structure with a simple click.
 
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
 
