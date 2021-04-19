@@ -2,6 +2,7 @@ name: README Repos List
 on:
   workflow_dispatch:
   schedule:
+    # runs at midnight UTC every day
     - cron: "0 0 * * *"
 jobs:
   list:
@@ -11,6 +12,6 @@ jobs:
         uses: DenverCoderOne/readme-repos-list@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          query: "user:DenverCoderOne fork:only"
+          query: "user:DenverCoderOne user:DenverCoder1 fork:only"
           max: 100
           sort: "updated"
