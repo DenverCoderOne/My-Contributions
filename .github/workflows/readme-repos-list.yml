@@ -12,6 +12,6 @@ jobs:
         uses: DenverCoderOne/readme-repos-list@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          query: "user:DenverCoderOne user:DenverCoder1 fork:only"
+          query: "user:DenverCoderOne fork:only"
           max: 100
           sort: "updated"
