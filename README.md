@@ -13,6 +13,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
+* [awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List
+
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
 * [calendar2020](https://github.com/DenverCoderOne/calendar2020) - A simple calendar for 2020.
@@ -37,7 +39,15 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-readme-activity-graph](https://github.com/DenverCoderOne/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
+* [github-readme-stats](https://github.com/DenverCoder1/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+* [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
+
+* [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge
+
+* [My-Contributions](https://github.com/DenverCoder1/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
 
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
