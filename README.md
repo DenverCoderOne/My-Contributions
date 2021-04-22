@@ -27,6 +27,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
+* [friendly-github](https://github.com/DenverCoderOne/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
+
 * [github-activity-readme](https://github.com/DenverCoderOne/github-activity-readme) - Updates README with the recent GitHub activity of a user
 
 * [github-hovercard](https://github.com/DenverCoderOne/github-hovercard) - Neat hovercards for GitHub.
