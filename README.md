@@ -47,6 +47,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
 
+* [simple-icons](https://github.com/DenverCoderOne/simple-icons) - SVG icons for popular brands
+
 * [vscode-folder-templates](https://github.com/DenverCoderOne/vscode-folder-templates) - Create your own Component structure with a simple click.
 
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
