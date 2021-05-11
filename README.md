@@ -43,6 +43,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
 
+* [Hotel-Zeitaku](https://github.com/DenverCoderOne/Hotel-Zeitaku) - Local Japanese Hotel project
+
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
