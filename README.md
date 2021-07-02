@@ -43,7 +43,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
 
-* [math-bot-with-steps](https://github.com/DenverCoderOne/math-bot-with-steps) - Discord bot for mathematics
+* [mathbot](https://github.com/DenverCoderOne/mathbot) - Discord bot for mathematics
 
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
