@@ -45,6 +45,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [mathbot](https://github.com/DenverCoderOne/mathbot) - Discord bot for mathematics
 
+* [nextcord](https://github.com/DenverCoderOne/nextcord) - A maintained fork of dannys discord.py
+
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
