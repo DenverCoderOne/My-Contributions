@@ -7,11 +7,17 @@ List of Open Source projects I have contributed to on GitHub
 <!-- Do not edit this list manually, your changes will be overwritten -->
 * [appwrite](https://github.com/DenverCoderOne/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 
+* [awesome-albert](https://github.com/DenverCoderOne/awesome-albert) - A curated list of third party albert extensions
+
+* [awesome-albert-plugins](https://github.com/DenverCoderOne/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
+
 * [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers)
 
 * [awesome-github-profile-readme](https://github.com/DenverCoderOne/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
+
+* [BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
@@ -22,6 +28,8 @@ List of Open Source projects I have contributed to on GitHub
 * [daily](https://github.com/DenverCoderOne/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 * [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
+
+* [discord-interactions](https://github.com/DenverCoderOne/discord-interactions) - A simple API wrapper for Discord interactions.
 
 * [emojitrack-web](https://github.com/DenverCoderOne/emojitrack-web) - :dizzy: Emojitracker frontend application
 
@@ -43,13 +51,25 @@ List of Open Source projects I have contributed to on GitHub
 
 * [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
 
+* [Hacktoberfest-2021-legit](https://github.com/DenverCoderOne/Hacktoberfest-2021-legit) - A list of legitimate projects to contribute to during Hacktoberfest 2021
+
 * [mathbot](https://github.com/DenverCoderOne/mathbot) - Discord bot for mathematics
 
 * [nextcord](https://github.com/DenverCoderOne/nextcord) - A maintained fork of dannys discord.py
 
+* [nextcord-ext-ipc](https://github.com/DenverCoderOne/nextcord-ext-ipc)
+
+* [nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus)
+
+* [plasma-splash-sweet-arch](https://github.com/DenverCoderOne/plasma-splash-sweet-arch)
+
+* [previous](https://github.com/DenverCoderOne/previous) - The support bot for nextcord
+
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
+
+* [release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog) - Creates reasonable enough GitHub releases for pushed tags, with the commit log as release body
 
 * [simple-icons](https://github.com/DenverCoderOne/simple-icons) - SVG icons for popular brands
 
