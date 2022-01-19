@@ -11,7 +11,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-albert-plugins](https://github.com/DenverCoderOne/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
 
-* [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers)
+* [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers) - List of Open Source projects where you can contribute without any programming knowledge
 
 * [awesome-github-profile-readme](https://github.com/DenverCoderOne/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
@@ -57,11 +57,11 @@ List of Open Source projects I have contributed to on GitHub
 
 * [nextcord](https://github.com/DenverCoderOne/nextcord) - A maintained fork of dannys discord.py
 
-* [nextcord-ext-ipc](https://github.com/DenverCoderOne/nextcord-ext-ipc)
+* [nextcord-ext-ipc](https://github.com/DenverCoderOne/nextcord-ext-ipc) - 🌐 A Nextcord extension for inter-process communication
 
-* [nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus)
+* [nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus) - A nextcord extension that makes working with reaction menus and button component menus a bit easier.
 
-* [plasma-splash-sweet-arch](https://github.com/DenverCoderOne/plasma-splash-sweet-arch)
+* [plasma-splash-sweet-arch](https://github.com/DenverCoderOne/plasma-splash-sweet-arch) - Sweet Arch KDE Splash Screen for Arch Linux
 
 * [previous](https://github.com/DenverCoderOne/previous) - The support bot for nextcord
 
