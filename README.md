@@ -3,7 +3,7 @@
 List of Open Source projects I have contributed to on GitHub
 
 <!-- start: readme-repos-list -->
-<!-- This list is auto-generated using koj-co/readme-repos-list -->
+<!-- This list is auto-generated using readme-repos-list -->
 <!-- Do not edit this list manually, your changes will be overwritten -->
 * [appwrite](https://github.com/DenverCoderOne/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 
@@ -67,7 +67,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
-* [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README
+* [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
 
 * [release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog) - Creates reasonable enough GitHub releases for pushed tags, with the commit log as release body
 
