@@ -77,6 +77,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
 
+* [wordless](https://github.com/DenverCoderOne/wordless) - A wordle clone with more features, made in svelte.
+
 <!-- end: readme-repos-list -->
 
 ----
