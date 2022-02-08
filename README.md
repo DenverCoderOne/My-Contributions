@@ -61,6 +61,10 @@ List of Open Source projects I have contributed to on GitHub
 
 * [nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus) - A nextcord extension that makes working with reaction menus and button component menus a bit easier.
 
+* [node-wordle](https://github.com/DenverCoderOne/node-wordle)
+
+* [nodele](https://github.com/DenverCoderOne/nodele)
+
 * [plasma-splash-sweet-arch](https://github.com/DenverCoderOne/plasma-splash-sweet-arch) - Sweet Arch KDE Splash Screen for Arch Linux
 
 * [previous](https://github.com/DenverCoderOne/previous) - The support bot for nextcord
