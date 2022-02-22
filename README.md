@@ -19,6 +19,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
+* [awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List
+
 * [BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
@@ -49,11 +51,17 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-readme-activity-graph](https://github.com/DenverCoderOne/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
+* [github-readme-stats](https://github.com/DenverCoder1/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 * [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
 
 * [Hacktoberfest-2021-legit](https://github.com/DenverCoderOne/Hacktoberfest-2021-legit) - A list of legitimate projects to contribute to during Hacktoberfest 2021
+
+* [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge
+
+* [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics
 
 * [mathbot](https://github.com/DenverCoderOne/mathbot) - Discord bot for mathematics
 
