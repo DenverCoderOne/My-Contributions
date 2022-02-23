@@ -61,7 +61,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge
 
-* [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics
+* [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
 
 * [mathbot](https://github.com/DenverCoderOne/mathbot) - Discord bot for mathematics
 
