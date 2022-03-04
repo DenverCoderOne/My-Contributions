@@ -75,6 +75,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [nodele](https://github.com/DenverCoderOne/nodele)
 
+* [onefetch](https://github.com/DenverCoderOne/onefetch) - Git repository summary on your terminal
+
 * [plasma-splash-sweet-arch](https://github.com/DenverCoderOne/plasma-splash-sweet-arch) - Sweet Arch KDE Splash Screen for Arch Linux
 
 * [previous](https://github.com/DenverCoderOne/previous) - The support bot for nextcord
