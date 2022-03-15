@@ -19,7 +19,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
-* [awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List
+* [awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 
 * [BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 
@@ -51,7 +51,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-readme-activity-graph](https://github.com/DenverCoderOne/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
-* [github-readme-stats](https://github.com/DenverCoder1/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+* [github-readme-stats](https://github.com/DenverCoder1/github-readme-stats) - :zap: Dynamically generated stats for your github readmes. Personal fork by DenverCoder1.
 
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
@@ -59,7 +59,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [Hacktoberfest-2021-legit](https://github.com/DenverCoderOne/Hacktoberfest-2021-legit) - A list of legitimate projects to contribute to during Hacktoberfest 2021
 
-* [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge
+* [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge. Fork of datamimi's kanjitab with lots of extra features!
 
 * [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
 
