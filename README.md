@@ -41,6 +41,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [friendly-github](https://github.com/DenverCoderOne/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
 
+* [git-stats](https://github.com/DenverCoderOne/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
+
 * [github-activity-readme](https://github.com/DenverCoderOne/github-activity-readme) - Updates README with the recent GitHub activity of a user
 
 * [github-hovercard](https://github.com/DenverCoderOne/github-hovercard) - Neat hovercards for GitHub.
