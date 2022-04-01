@@ -37,6 +37,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [discord.py](https://github.com/DenverCoderOne/discord.py) - An API wrapper for Discord written in Python.
 
+* [disnake](https://github.com/DenverCoderOne/disnake) - An API wrapper for Discord written in Python.
+
 * [emojitrack-web](https://github.com/DenverCoderOne/emojitrack-web) - :dizzy: Emojitracker frontend application
 
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
