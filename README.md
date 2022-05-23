@@ -65,6 +65,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [Hacktoberfest-2021-legit](https://github.com/DenverCoderOne/Hacktoberfest-2021-legit) - A list of legitimate projects to contribute to during Hacktoberfest 2021
 
+* [hello-world](https://github.com/DenverCoderOne/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
+
 * [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge. Fork of datamimi's kanjitab with lots of extra features!
 
 * [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
