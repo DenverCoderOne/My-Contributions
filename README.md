@@ -25,6 +25,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
+* [bot-be-named](https://github.com/DenverCoderOne/bot-be-named)
+
 * [calendar2020](https://github.com/DenverCoderOne/calendar2020) - A simple calendar for 2020.
 
 * [creative-profile-readme](https://github.com/DenverCoderOne/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
