@@ -25,8 +25,6 @@ List of Open Source projects I have contributed to on GitHub
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
-* [bot-be-named](https://github.com/DenverCoderOne/bot-be-named)
-
 * [calendar2020](https://github.com/DenverCoderOne/calendar2020) - A simple calendar for 2020.
 
 * [creative-profile-readme](https://github.com/DenverCoderOne/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
@@ -69,7 +67,11 @@ List of Open Source projects I have contributed to on GitHub
 
 * [hello-world](https://github.com/DenverCoderOne/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
+* [hogwarts-ghosts](https://github.com/DenverCoderOne/hogwarts-ghosts)
+
 * [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge. Fork of datamimi's kanjitab with lots of extra features!
+
+* [libs](https://github.com/DenverCoderOne/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 
 * [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
 
