@@ -67,8 +67,6 @@ List of Open Source projects I have contributed to on GitHub
 
 * [hello-world](https://github.com/DenverCoderOne/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
-* [hogwarts-ghosts](https://github.com/DenverCoderOne/hogwarts-ghosts)
-
 * [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge. Fork of datamimi's kanjitab with lots of extra features!
 
 * [libs](https://github.com/DenverCoderOne/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
@@ -98,6 +96,8 @@ List of Open Source projects I have contributed to on GitHub
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
 
 * [release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog) - Creates reasonable enough GitHub releases for pushed tags, with the commit log as release body
+
+* [shields](https://github.com/DenverCoderOne/shields) - Concise, consistent, and legible badges in SVG and raster format
 
 * [simple-icons](https://github.com/DenverCoderOne/simple-icons) - SVG icons for popular brands
 
