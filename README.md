@@ -13,6 +13,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-albert-plugins](https://github.com/DenverCoderOne/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
 
+* [awesome-badges](https://github.com/DenverCoder1/awesome-badges) - A curated collection of awesome things related to status badges
+
 * [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers) - List of Open Source projects where you can contribute without any programming knowledge
 
 * [awesome-github-profile-readme](https://github.com/DenverCoderOne/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
