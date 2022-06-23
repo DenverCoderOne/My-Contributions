@@ -13,7 +13,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-albert-plugins](https://github.com/DenverCoderOne/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
 
-* [awesome-badges](https://github.com/DenverCoder1/awesome-badges) - A curated collection of awesome things related to status badges
+* [awesome-badges](https://github.com/DenverCoderOne/awesome-badges) - A curated collection of awesome things related to status badges
 
 * [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers) - List of Open Source projects where you can contribute without any programming knowledge
 
@@ -108,6 +108,10 @@ List of Open Source projects I have contributed to on GitHub
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
 
 * [wordless](https://github.com/DenverCoderOne/wordless) - A wordle clone with more features, made in svelte.
+
+* [Zeppelin](https://github.com/DenverCoderOne/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
+
+* [ZeppelinBot-CLA](https://github.com/DenverCoderOne/ZeppelinBot-CLA)
 
 <!-- end: readme-repos-list -->
 
