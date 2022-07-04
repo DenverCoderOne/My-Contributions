@@ -79,6 +79,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [nextcord](https://github.com/DenverCoderOne/nextcord) - A maintained fork of dannys discord.py
 
+* [nextcord-ext-help-commands](https://github.com/DenverCoderOne/nextcord-ext-help-commands) - A nextcord extension for a collection of help command implementations
+
 * [nextcord-ext-ipc](https://github.com/DenverCoderOne/nextcord-ext-ipc) - 🌐 A Nextcord extension for inter-process communication
 
 * [nextcord-ext-menus](https://github.com/DenverCoderOne/nextcord-ext-menus) - A nextcord extension that makes working with reaction menus and button component menus a bit easier.
