@@ -5,10 +5,6 @@ List of Open Source projects I have contributed to on GitHub
 <!-- start: readme-repos-list -->
 <!-- This list is auto-generated using readme-repos-list -->
 <!-- Do not edit this list manually, your changes will be overwritten -->
-* [albert-discord-timestamp](https://github.com/DenverCoderOne/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
-
-* [appwrite](https://github.com/DenverCoderOne/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
-
 * [awesome-albert](https://github.com/DenverCoderOne/awesome-albert) - A curated list of third party albert extensions
 
 * [awesome-albert-plugins](https://github.com/DenverCoderOne/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
@@ -16,8 +12,6 @@ List of Open Source projects I have contributed to on GitHub
 * [awesome-badges](https://github.com/DenverCoderOne/awesome-badges) - A curated collection of awesome things related to status badges
 
 * [awesome-for-non-programmers](https://github.com/DenverCoderOne/awesome-for-non-programmers) - List of Open Source projects where you can contribute without any programming knowledge
-
-* [awesome-github-profile-readme](https://github.com/DenverCoderOne/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 
 * [awesome-github-profiles](https://github.com/DenverCoderOne/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
@@ -39,11 +33,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [discord.py](https://github.com/DenverCoderOne/discord.py) - An API wrapper for Discord written in Python.
 
-* [disnake](https://github.com/DenverCoderOne/disnake) - An API wrapper for Discord written in Python.
-
 * [emojitrack-web](https://github.com/DenverCoderOne/emojitrack-web) - :dizzy: Emojitracker frontend application
-
-* [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
 * [friendly-github](https://github.com/DenverCoderOne/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
 
