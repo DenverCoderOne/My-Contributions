@@ -69,6 +69,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [hello-world](https://github.com/DenverCoderOne/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
+* [heroku-buildpack-fonts-segoe-ui](https://github.com/DenverCoder1/heroku-buildpack-fonts-segoe-ui) - Heroku buildpack for Segoe UI font.
+
 * [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge. Fork of datamimi's kanjitab with lots of extra features!
 
 * [libs](https://github.com/DenverCoderOne/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
