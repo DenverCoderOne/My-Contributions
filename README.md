@@ -63,6 +63,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
+* [github-readme-streak-stats](https://github.com/DenverCoderOne/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
 * [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
 
 * [Hacktoberfest-2021-legit](https://github.com/DenverCoderOne/Hacktoberfest-2021-legit) - A list of legitimate projects to contribute to during Hacktoberfest 2021
