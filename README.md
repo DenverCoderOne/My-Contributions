@@ -109,6 +109,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [simple-icons](https://github.com/DenverCoderOne/simple-icons) - SVG icons for popular brands
 
+* [superfly-docs](https://github.com/DenverCoderOne/superfly-docs)
+
 * [vscode-folder-templates](https://github.com/DenverCoderOne/vscode-folder-templates) - Create your own Component structure with a simple click.
 
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
