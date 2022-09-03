@@ -107,6 +107,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [shields](https://github.com/DenverCoderOne/shields) - Concise, consistent, and legible badges in SVG and raster format
 
+* [siemano](https://github.com/DenverCoderOne/siemano) - Maintained fork of Siema - Lightweight and simple carousel in pure JavaScript
+
 * [simple-icons](https://github.com/DenverCoderOne/simple-icons) - SVG icons for popular brands
 
 * [superfly-docs](https://github.com/DenverCoderOne/superfly-docs)
