@@ -45,6 +45,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
+* [flask](https://github.com/DenverCoderOne/flask) - The Python micro framework for building web applications.
+
 * [friendly-github](https://github.com/DenverCoderOne/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
 
 * [git-stats](https://github.com/DenverCoderOne/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
