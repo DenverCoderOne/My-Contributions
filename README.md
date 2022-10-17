@@ -23,6 +23,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [awesome-stars](https://github.com/DenverCoder1/awesome-stars) - My Awesome List. List of repositories starred by Jonah Lawrence.
 
+* [babel](https://github.com/DenverCoderOne/babel) - The official repository for Babel, the Python Internationalization Library
+
 * [BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 
 * [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
