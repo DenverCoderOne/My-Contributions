@@ -9,6 +9,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [appwrite](https://github.com/DenverCoderOne/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 
+* [autoflake](https://github.com/DenverCoderOne/autoflake) - Removes unused imports and unused variables as reported by pyflakes
+
 * [awesome-albert](https://github.com/DenverCoderOne/awesome-albert) - A curated list of third party albert extensions
 
 * [awesome-albert-plugins](https://github.com/DenverCoderOne/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
