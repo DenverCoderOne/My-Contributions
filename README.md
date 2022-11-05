@@ -119,6 +119,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [superfly-docs](https://github.com/DenverCoderOne/superfly-docs)
 
+* [typeshed](https://github.com/DenverCoderOne/typeshed) - Collection of library stubs for Python, with static types
+
 * [vscode-folder-templates](https://github.com/DenverCoderOne/vscode-folder-templates) - Create your own Component structure with a simple click.
 
 * [Website](https://github.com/DenverCoderOne/Website) - The website and documentation for thenewboston.
