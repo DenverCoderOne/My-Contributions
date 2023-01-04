@@ -81,8 +81,6 @@ List of Open Source projects I have contributed to on GitHub
 
 * [heroku-buildpack-fonts-segoe-ui](https://github.com/DenverCoder1/heroku-buildpack-fonts-segoe-ui) - Heroku buildpack for Segoe UI font.
 
-* [kanjitab](https://github.com/DenverCoder1/kanjitab) - Code for a Chrome extension that tests kanji knowledge. Fork of datamimi's kanjitab with lots of extra features!
-
 * [libs](https://github.com/DenverCoderOne/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 
 * [math-bot-with-steps](https://github.com/DenverCoder1/math-bot-with-steps) - Discord bot for mathematics. A fork of MathBot but with step-by-step solutions.
