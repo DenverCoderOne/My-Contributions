@@ -7,6 +7,8 @@ List of Open Source projects I have contributed to on GitHub
 <!-- Do not edit this list manually, your changes will be overwritten -->
 * [albert-discord-timestamp](https://github.com/DenverCoderOne/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
 
+* [albert-python](https://github.com/DenverCoderOne/albert-python) - A repository for the official Albert Python extensions
+
 * [appwrite](https://github.com/DenverCoderOne/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 
 * [autoflake](https://github.com/DenverCoderOne/autoflake) - Removes unused imports and unused variables as reported by pyflakes
