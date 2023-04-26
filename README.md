@@ -5,6 +5,8 @@ List of Open Source projects I have contributed to on GitHub
 <!-- start: readme-repos-list -->
 <!-- This list is auto-generated using readme-repos-list -->
 <!-- Do not edit this list manually, your changes will be overwritten -->
+* [add-and-commit](https://github.com/DenverCoderOne/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
+
 * [albert-discord-timestamp](https://github.com/DenverCoderOne/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
 
 * [albert-python](https://github.com/DenverCoderOne/albert-python) - A repository for the official Albert Python extensions
