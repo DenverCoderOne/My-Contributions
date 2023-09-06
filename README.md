@@ -63,6 +63,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-activity-readme](https://github.com/DenverCoderOne/github-activity-readme) - Updates README with the recent GitHub activity of a user
 
+* [github-docs-fork](https://github.com/DenverCoder1/github-docs-fork) - The open-source repo for docs.github.com
+
 * [github-hovercard](https://github.com/DenverCoderOne/github-hovercard) - Neat hovercards for GitHub.
 
 * [github-profile-readme-generator](https://github.com/DenverCoderOne/github-profile-readme-generator) - :rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
