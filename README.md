@@ -35,13 +35,13 @@ List of Open Source projects I have contributed to on GitHub
 
 * [BetterDiscordPlugins](https://github.com/DenverCoderOne/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 
-* [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+* [blog-post-workflow](https://github.com/DenverCoderOne/blog-post-workflow) - Fork of blog-post-workflow - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
 * [calendar2020](https://github.com/DenverCoderOne/calendar2020) - A simple calendar for 2020.
 
-* [creative-profile-readme](https://github.com/DenverCoderOne/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
+* [creative-profile-readme](https://github.com/DenverCoderOne/creative-profile-readme) - Fork of creative-profile-readme - A Collection of GitHub Profiles with awesome readme
 
-* [daily](https://github.com/DenverCoderOne/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+* [daily](https://github.com/DenverCoderOne/daily) - Fork of daily.dev - Curated dev news delivered to your new tab 👩🏽‍💻
 
 * [dateparser](https://github.com/DenverCoderOne/dateparser) - python parser for human readable dates
 
