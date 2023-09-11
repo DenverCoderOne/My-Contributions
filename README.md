@@ -111,6 +111,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [previous](https://github.com/DenverCoderOne/previous) - The support bot for nextcord
 
+* [pull-request-community-website](https://github.com/DenverCoderOne/pull-request-community-website) - Pull request community
+
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
@@ -121,7 +123,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [siemano](https://github.com/DenverCoderOne/siemano) - Maintained fork of Siema - Lightweight and simple carousel in pure JavaScript
 
-* [simple-icons](https://github.com/DenverCoderOne/simple-icons) - SVG icons for popular brands
+* [simple-icons-fork](https://github.com/DenverCoderOne/simple-icons-fork) - SVG icons for popular brands
 
 * [superfly-docs](https://github.com/DenverCoderOne/superfly-docs)
 
