@@ -63,7 +63,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [github-activity-readme](https://github.com/DenverCoderOne/github-activity-readme) - Updates README with the recent GitHub activity of a user
 
-* [github-docs-fork](https://github.com/DenverCoder1/github-docs-fork) - The open-source repo for docs.github.com
+* [github-docs-fork](https://github.com/DenverCoderOne/github-docs-fork) - The open-source repo for docs.github.com
 
 * [github-hovercard](https://github.com/DenverCoderOne/github-hovercard) - Neat hovercards for GitHub.
 
@@ -123,7 +123,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [siemano](https://github.com/DenverCoderOne/siemano) - Maintained fork of Siema - Lightweight and simple carousel in pure JavaScript
 
-* [simple-icons-fork](https://github.com/DenverCoderOne/simple-icons-fork) - SVG icons for popular brands
+* [simple-icons-fork](https://github.com/DenverCoder1/simple-icons-fork) - SVG icons for popular brands
 
 * [superfly-docs](https://github.com/DenverCoderOne/superfly-docs)
 
