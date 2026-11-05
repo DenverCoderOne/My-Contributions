@@ -39,7 +39,11 @@ List of Open Source projects I have contributed to on GitHub
 
 * [calendar2020](https://github.com/DenverCoderOne/calendar2020) - A simple calendar for 2020.
 
+* [caspion](https://github.com/DenverCoderOne/caspion) - Automated budget tracking from Israeli financial institutions
+
 * [creative-profile-readme](https://github.com/DenverCoderOne/creative-profile-readme) - Fork of creative-profile-readme - A Collection of GitHub Profiles with awesome readme
+
+* [Crisis-Connections](https://github.com/DenverCoder1/Crisis-Connections) - A repeat caller list UI for the non-profit Crisis Connections.
 
 * [daily](https://github.com/DenverCoderOne/daily) - Fork of daily.dev - Curated dev news delivered to your new tab 👩🏽‍💻
 
@@ -56,8 +60,6 @@ List of Open Source projects I have contributed to on GitHub
 * [enhanced-github](https://github.com/DenverCoderOne/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 
 * [flask](https://github.com/DenverCoderOne/flask) - The Python micro framework for building web applications.
-
-* [friendly-github](https://github.com/DenverCoderOne/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
 
 * [git-stats](https://github.com/DenverCoderOne/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 
@@ -78,6 +80,8 @@ List of Open Source projects I have contributed to on GitHub
 * [github-readme-stats](https://github.com/DenverCoderOne/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 * [github-readme-streak-stats](https://github.com/DenverCoderOne/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+* [glightbox-fork](https://github.com/DenverCoder1/glightbox-fork) - Fork of glightbox - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 
 * [googlesearch](https://github.com/DenverCoderOne/googlesearch) - A Python library for scraping the Google search engine.
 
@@ -109,6 +113,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [plasma-splash-sweet-arch](https://github.com/DenverCoderOne/plasma-splash-sweet-arch) - Sweet Arch KDE Splash Screen for Arch Linux
 
+* [PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy) - A web clone of the card game Cards Against Humanity.
+
 * [previous](https://github.com/DenverCoderOne/previous) - The support bot for nextcord
 
 * [pull-request-community-website](https://github.com/DenverCoderOne/pull-request-community-website) - Pull request community
@@ -116,6 +122,8 @@ List of Open Source projects I have contributed to on GitHub
 * [random-issue-picker](https://github.com/DenverCoderOne/random-issue-picker) - Select random github issue by certain criteria
 
 * [readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
+
+* [refined-github](https://github.com/DenverCoderOne/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
 * [release-with-changelog](https://github.com/DenverCoderOne/release-with-changelog) - Creates reasonable enough GitHub releases for pushed tags, with the commit log as release body
 
