@@ -39,8 +39,6 @@ List of Open Source projects I have contributed to on GitHub
 
 * [calendar2020](https://github.com/DenverCoderOne/calendar2020) - A simple calendar for 2020.
 
-* [caspion](https://github.com/DenverCoderOne/caspion) - Automated budget tracking from Israeli financial institutions
-
 * [creative-profile-readme](https://github.com/DenverCoderOne/creative-profile-readme) - Fork of creative-profile-readme - A Collection of GitHub Profiles with awesome readme
 
 * [Crisis-Connections](https://github.com/DenverCoder1/Crisis-Connections) - A repeat caller list UI for the non-profit Crisis Connections.
