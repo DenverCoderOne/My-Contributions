@@ -95,6 +95,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [mathbot](https://github.com/DenverCoderOne/mathbot) - Discord bot for mathematics
 
+* [miproja1](https://github.com/DenverCoderOne/miproja1) - Fork of Projectivity repo
+
 * [nextcord](https://github.com/DenverCoderOne/nextcord) - A maintained fork of dannys discord.py
 
 * [nextcord-ext-help-commands](https://github.com/DenverCoderOne/nextcord-ext-help-commands) - A nextcord extension for a collection of help command implementations
